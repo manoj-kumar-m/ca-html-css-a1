@@ -247,6 +247,7 @@ nav{
 .home-container-btn {
     padding: 8px 42px!important;
     border-radius: 8px!important;
+    font-weight: 550;
 }
 
 /* stats */
